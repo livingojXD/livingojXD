@@ -2,5 +2,5 @@
 ― Albert Einstein
 
 私  [oj (oh-j)] • vitality<br>
-14 ﹒https://guns.lol/living0jxd
+14 ﹒https://guns.lol/livingojxd
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/livingojXD/livingojXD/output/github-contribution-grid-snake-dark.svg)
